@@ -1,0 +1,4 @@
+GROUP-NAME:/bookstore/booksearch
+PAIR-NAME:pair-2 GET /bookstore/booksearch
+GET /bookstore/booksearch?author={author} 
+
