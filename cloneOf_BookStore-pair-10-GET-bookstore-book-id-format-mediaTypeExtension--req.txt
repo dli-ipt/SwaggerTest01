@@ -1,0 +1,4 @@
+GROUP-NAME:/bookstore/book/{id}/format{mediaTypeExtension}
+PAIR-NAME:pair-10 GET /bookstore/book/{id}/format{mediaTypeExtension}
+GET /bookstore/book/{id}/format{mediaTypeExtension} 
+
