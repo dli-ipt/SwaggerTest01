@@ -1,0 +1,5 @@
+<book>
+  <title>How to Avoid Huge Ships</title>
+  <author>Captain John W. Trimmer</author>
+  <publisher>Cornell Maritime Press</publisher>
+</book>
