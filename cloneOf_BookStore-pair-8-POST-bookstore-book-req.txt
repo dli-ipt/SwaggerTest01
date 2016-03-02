@@ -1,0 +1,6 @@
+GROUP-NAME:/bookstore/book
+PAIR-NAME:pair-8 POST /bookstore/book
+POST /bookstore/book?title={title}&author={author}&publisher={publisher} 
+header-param-1: {header-param-1}
+header-param-2: {header-param-2}
+
